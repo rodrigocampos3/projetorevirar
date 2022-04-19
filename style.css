@@ -22,6 +22,29 @@
 
 
  }
+*{
+border: 0px;
+padding: 0%;
+margin: 0%;
+
+
+
+}
+
+
+#projeto_social{
+width: 100%;
+background-color: yellow;
+
+
+
+
+}
+
+
+
+
+
 #sobre {
     background-color: #E4E4E4;
 }
